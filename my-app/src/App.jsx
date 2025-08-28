@@ -47,6 +47,7 @@ export default function App() {
 }*/
 import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpenses/NewExpense";
+//shailesh mapari
 const App = () => {
   let expenses = [
     {
